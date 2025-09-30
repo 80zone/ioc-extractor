@@ -1,0 +1,7 @@
+User login from 192.168.1.10
+Suspicious domain: evil-site.com
+Contact: hacker@mail.com
+Malware hash (MD5): 44d88612fea8a8f36de82e1278abb02f
+Another IP: 8.8.8.8
+Sample sha1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+Sample sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
