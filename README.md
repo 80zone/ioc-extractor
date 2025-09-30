@@ -1,7 +1,7 @@
 # 🛡️ IOC Extractor
 
-A simple Python tool to extract **Indicators of Compromise (IOCs)** such as IP addresses, domains, emails, and file hashes (MD5, SHA1, SHA256) from text files.  
-This project is **designed for educational purposes** and to support **SOC analysts** and **Digital Forensics investigations**.
+A **Python-based IOC Extractor** designed for SOC analysts and Digital Forensics investigations.  
+Automates the detection of **IPs, domains, emails, and file hashes** from log or text files.
 
 ---
 
@@ -9,16 +9,12 @@ This project is **designed for educational purposes** and to support **SOC analy
 - Extracts:
   - IPv4 addresses
   - Domains
-  - Email addresses
+  - Emails
   - MD5 / SHA1 / SHA256 hashes
 - Reads input from a text file
-- Outputs results to the console
-- Fully written in Python for easy use and modification
+- Clean and structured output for easier analysis
+- Can be extended to export results to CSV/JSON
 
 ---
 
 ## 📂 Project Structure
-
-
-
-Add README with project description and usage
